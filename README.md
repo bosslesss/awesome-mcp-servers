@@ -363,6 +363,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🤝 <a name="ai-services"></a>AI Services
 
+- [Inference Labs](https://github.com/bosslesss/inference-labs-mcp) - MCP server for vendor-neutral LLM routing across GPT-5 / Claude / Gemini / AWS Bedrock with policy-based selection (cost-first / quality-first / latency-first / balanced / judge), live pricing lookups, and head-to-head model comparison. Two of the four tools require no API key.
+
 > Integration with AI and machine learning services.
 
 - <img src="https://agentset.ai/screenshots/logo.png" height="14"/> [Agentset AI](https://github.com/agentset-ai/mcp-server) -  RAG on your data using MCP protocol
